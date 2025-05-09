@@ -25,3 +25,10 @@ make test
 
 Los experimentos son registrados localmente en `mlruns/`.
 
+## <!-- Forzando ejecución del workflow -->
+git add README.md
+git commit -m "Forzar ejecución del pipeline"
+git push
+
+
+
